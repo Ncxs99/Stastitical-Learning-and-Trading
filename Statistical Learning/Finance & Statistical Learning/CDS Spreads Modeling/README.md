@@ -12,7 +12,7 @@ This section is dedicated to the time series modeling of Credit Default Swap (CD
      - **Volatility Modeling:** Applying GARCH models to capture the volatility clustering often observed in financial time series.
 
 2. **CDS Spread Time Series Modeling (Part II):**
-   - This notebook builds upon the first by extending the analysis to multiple time series, specifically the joint evolution of CDS spreads for LITRAX and Renault.
+   - This notebook builds upon the first by extending the analysis to multiple time series, specifically the joint evolution of CDS spreads for DJ-ITRAXX and Renault.
    - Key components include:
      - **Cointegration Analysis:** Investigating the long-term relationship and co-movement between DJ-ITRAXX and Renault CDS spreads.
      - **Multivariate ARMA Models:** Utilizing multidimensional ARMA models to capture the joint dynamics of the CDS spreads.
