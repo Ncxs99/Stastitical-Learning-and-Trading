@@ -11,6 +11,6 @@ This section is dedicated to the exploration and application of machine learning
   - Utilizing deep learning models, including RNNs, LSTMs, and other neural network architectures, to capture complex temporal patterns and enhance predictive capabilities.
 
 - **Diverse Applications:**
-  - While the section is open to modeling any type of time series, the goal is to highlight the effectiveness of these methods across various domains. For example, our current project involves **Bitcoin Price Prediction**, where we apply these techniques to forecast cryptocurrency prices.
+  - While the section is open to modeling any type of time series, the goal is to highlight the effectiveness of these methods across various domains.
 
 This section serves as a comprehensive resource for data scientists, researchers, and practitioners interested in applying machine learning and deep learning to time series data, offering insights and practical examples that demonstrate the strength of these methods in real-world scenarios.
